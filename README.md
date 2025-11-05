@@ -12,7 +12,7 @@
 
 <!-- Social: Latest Tweets (works without JS) -->
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/PathuriRajendra">
     <img src="https://github-readme-twitter.gazf.vercel.app/api?id=YOUR_TWITTER&layout=wide&show_reply=off&show_retweet=on&show_border=off" alt="Latest Tweets">
   </a>
 </p>
