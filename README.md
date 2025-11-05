@@ -5,53 +5,17 @@
   </a>
 </p>
 
-<!-- Quick intro -->
-<p align="center">
-  <b>Cloud Security Engineer</b> securing AWS at scale • IAM • least-privilege • threat detection • automation
-</p>
+### Hi there 👋
 
-<!-- Social: Latest Tweets (works without JS) -->
-<p align="center">
-  <a href="https://twitter.com/PathuriRajendra">
-    <img src="https://github-readme-twitter.gazf.vercel.app/api?id=YOUR_TWITTER&layout=wide&show_reply=off&show_retweet=on&show_border=off" alt="Latest Tweets">
-  </a>
-</p>
+- 🔭 I’m currently working on: the 100DaysCloudSecurity challenge, OpenSearch-as-SIEM pipelines, GuardDuty/Security Hub tuning, and Terraform/AWS CDK guardrails for least‑privilege and drift control.  
+- 🌱 I’m currently learning: CCSP (in progress), EKS security hardening, detection engineering, and policy‑as‑code with OPA/Conftest and tfsec.  
+- 👯 I’m looking to collaborate on: AWS IAM automation, CSPM rules/policies, ATT&CK‑mapped detections, and incident response playbooks for cloud workloads.  
+- 🤔 I’m looking for help with: something creative—eye‑catching security visualizations, interactive cloud security demos, or bold OSS project ideas.  
+- 💬 Ask me about: AI and Security, AWS IAM/GuardDuty/Security Hub, Terraform/CDK guardrails, SOC workflows, and ATT&CK mapping.  
+- 📫 How to reach me: LinkedIn — https://www.linkedin.com/in/vpathuri/  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: a big biryani boy  
 
-<!-- Stats row -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=RajendraPathuri&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=RajendraPathuri&theme=dark&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub Streak">
-  </a>
-</p>
-
-<!-- October streak note -->
-<p align="center">
-  Streak tracking active since Oct 2025 • keep shipping daily
-</p>
-
----
-
-### Featured Directory
-Below auto-updates from a specified repository/path so visitors see your current structure.
-
-<!-- TREEVIEW START -->
-<!-- TREEVIEW END -->
-
----
-
-### Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="github-snake" src="assets/github-snake.svg" />
-  </picture>
-</p>
-
-### About
-- Cloud Security Engineer in AWS: IAM, detection, infra‑as‑code guardrails, and incident response.  
-- Building automation around assessments and continuous controls to reduce risk.  
-
+<!--
+**RajendraPathuri/RajendraPathuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
